@@ -1,0 +1,13 @@
+/bin/
+
+#java
+*.class
+
+#maven ignore
+target/
+build/
+
+#eclipse ignore
+.settings/
+.project
+.classpath
