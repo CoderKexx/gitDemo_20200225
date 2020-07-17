@@ -11,3 +11,6 @@ build/
 .settings/
 .project
 .classpath
+
+.idea/
+gitDemo_20200225.iml
