@@ -9,5 +9,6 @@ public class UserDao {
 		System.out.println("创建分支");
 		System.out.println("主干上传的代码");
 		System.out.println("主干commit的代码");
+		System.out.println("idea测试commit的代码");
 	}
 }
