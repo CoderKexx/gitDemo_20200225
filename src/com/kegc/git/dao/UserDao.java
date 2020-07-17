@@ -8,5 +8,7 @@ public class UserDao {
 		
 		System.out.println("创建分支");
 		System.out.println("测试提交分支代码");
+
+		System.out.println("idea提交dev分支代码");
 	}
 }
