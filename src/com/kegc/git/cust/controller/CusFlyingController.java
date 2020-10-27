@@ -8,5 +8,6 @@ public class CusFlyingController {
 	int b = 2;
 	int d = 4;
 	String m = "";
+	String hh = "";
 	String kk = "";
 }
