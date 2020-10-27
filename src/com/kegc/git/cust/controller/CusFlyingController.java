@@ -9,5 +9,5 @@ public class CusFlyingController {
 	int d = 4;
 	String m = "";
 	String hh = "";
-	String kk = "";
+	String kk = "kk";
 }
