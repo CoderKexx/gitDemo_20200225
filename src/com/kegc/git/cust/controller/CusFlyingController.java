@@ -6,4 +6,5 @@ public class CusFlyingController {
 	String str1 ="";
 	int k = 3;
 	int b = 2;
+	String m = "";
 }
