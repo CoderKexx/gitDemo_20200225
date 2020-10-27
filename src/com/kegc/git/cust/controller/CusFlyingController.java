@@ -3,7 +3,7 @@ package com.kegc.git.cust.controller;
 public class CusFlyingController {
 	String str ="eclipse在cust分支创建CusFlyingController";
 	int i=10;
-	String str1 ="";
+	String str1 ="gg";
 	int k = 3;
 	int b = 2;
 	int d = 4;
