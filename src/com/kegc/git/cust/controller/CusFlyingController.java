@@ -5,4 +5,5 @@ public class CusFlyingController {
 	int i=10;
 	String str1 ="";
 	int k = 3;
+	int b = 2;
 }
