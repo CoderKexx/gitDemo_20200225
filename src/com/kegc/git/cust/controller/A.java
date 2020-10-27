@@ -5,4 +5,6 @@ public class A {
 	
 	int c = 3;
 
+	int d = 9;
+
 }
